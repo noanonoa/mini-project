@@ -253,7 +253,7 @@
     /* border: 1px dotted dodgerblue; */
   }
 
-  .btn-learn-more {
+  .btn-headline {
     position: absolute;
     width: 170px;
     height: 60px;
@@ -263,7 +263,7 @@
     /* border: 1px dotted violet; */
   }
 
-  .btn-learn-more .rectangle-26 {
+  .btn-headline .rectangle-26 {
     position: absolute;
     width: 100%;
     height: 100%;        
@@ -275,7 +275,7 @@
     /* border: 1px solid black; */
   }
 
-  .btn-learn-more p {
+  .btn-headline p {
     position: absolute;
     width: 96px;
     height: 29px;
@@ -399,6 +399,331 @@
     border: 1px dashed lightblue;
   }
 
+  .section-3-title {
+    position: absolute;
+    width: 584px;
+    height: 160px;
+    top: 0;
+    left: 267.29px;
+
+    /* border: 1px solid black; */
+  }
+
+  .section-3-title h3 {
+    position: absolute;
+    width: 405px;
+    height: 52px;
+    top: 0;
+    left: 89px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 130%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #212353;
+
+    /* border: 1px black solid; */
+  }
+
+  .section-3-title article {
+    position: absolute;
+    width: 584px;
+    height: 58px;
+    top: 102px;
+    left: 0;
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 160%;
+    text-align: center;
+    color: #4B5D68;
+
+    /* border: 1px solid black; */
+  }
+
+  .section-3-box1 {
+    position: absolute;
+    width: 531.29px;
+    height: 388px;
+    top: 230px;
+    left: 19px;
+
+    /* border: 1px solid black; */
+  }
+
+  .section-3-box1 .rectangle-39-container {
+    position: absolute;
+    width: 442px;
+    height: 358px;
+    right: 0;
+    bottom: 0;
+
+    /* border: 1px solid green; */
+  }
+
+  .rectangle-39-container > img {
+    position: absolute;
+    right: 0;
+
+    /* border: 1px solid black; */
+  }
+
+  .section-3-box1 > .vector-56-container {
+    position: absolute;
+    width: 240px;
+    height: 227.99px;
+    right: 0;
+
+    /* border: 1px solid black; */
+  }
+  
+  .section-3-box1 > .vector-56-container > img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    /* border: 1px solid black; */
+  }
+
+  .section-3-box1 > .ellipse-61-container {
+    position: absolute;
+    width: 38.57px;
+    height: 30.54px;
+    left: 375.35px;
+    top: 73.88px;
+
+    /* border: 1px solid black; */
+  }
+
+  .section-3-box1 > .ellipse-61-container > img {
+    position: absolute;
+    width: 33.7px;
+    height: 19.91px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    /* border: 1px solid green; */
+  }
+
+  .section-3-box1 > h4 {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    top: 79px;
+    left: 261.29px;
+
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 130%;
+    display: flex;
+    align-items: center;
+    color: #212353;
+
+    /* border: 1px solid black; */
+  }
+
+  .section-3-box1 > article {
+    position: absolute;
+    width: 220px;
+    height: 160px;
+    top: 149px;
+    left: 261.29px;
+
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 160%;
+    color: #4B5D68;
+
+    /* border: 1px solid black; */
+  }
+
+  .img3-container {
+    position: absolute;
+    width: 232px;
+    height: 211px;
+    left: 0;
+    top: 103px;
+
+    /* border: 1px solid black; */
+  }
+
+  .img3-container > img {
+    width: 100%;
+    height: auto;
+  }
+
+  .btn-section-3 {
+    position: absolute;
+    width: 127px;
+    height: 26px;
+    top: 329px;
+    left: 261.29px;
+
+    /* border: 1px solid black; */
+  }
+
+  .btn-section-3 p {
+    position: absolute;
+    width: 87px;
+    height: 26px;
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.005em;
+    color: #212353;
+
+    /* border: 1px solid blue; */
+  }
+  
+  .section-3-box2 {
+    position: absolute;
+    width: 544.28px;
+    height: 394.56px;
+    top: 260px;
+    left: 593px;
+
+    /* border: 1px solid black; */
+  }
+
+  .section-3-box2 .rectangle-39-container {
+    position: absolute;
+    width: 442px;
+    height: 358px;
+    right: 0;
+
+    /* border: 1px solid black; */
+  }
+
+  .section-3-box2 .rectangle-39-container > img {
+    position: absolute;
+    right: 0;
+  }
+
+  .section-3-box2 > .vector-56-container {
+    position: absolute;
+    width: 249px;
+    height: 248.56px;
+    top: 146px;
+    right: 0;
+
+    /* border: 1px solid black; */
+    /* background: blue; */
+  }
+
+  .section-3-box2 > .vector-56-container > img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    /* border: 1px solid green; */
+  }
+
+  .section-3-box2 > h4 {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 274.28px;
+    top: 49px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 130%;
+    display: flex;
+    align-items: center;
+    color: #212353;
+
+    /* border: 1px solid black; */
+  }
+
+  .section-3-box2 > article {
+    position: absolute;
+    width: 220px;
+    height: 160px;
+    left: 274.28px;
+    top: 119px;
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 160%;
+    color: #4B5D68;
+
+    /* border: 1px solid black; */
+  }
+
+  .img4-container {
+    position: absolute;
+    width: 241px;
+    height: 185px;
+    left: 0;
+    top: 71px;
+
+    /* border: 1px solid black; */
+  }
+
+  .img4-container > img {
+    width: 100%;
+    height: auto;
+  }
+
+  .section-3-box2 > .btn-section-3 {
+    left: 274.28px;
+    top: 299px;
+
+    /* border: 1px solid black; */
+  }
+
+  .section-3-box2 > .btn-section-3 > p {
+    font-weight: 900;
+  }
+  
+
+
+  
+  .section-3-box3 {
+    position: absolute;
+    width: 550.28px;
+    height: 358px;
+    left: 0;
+    top: 668px;
+
+    border: 1px solid black;
+  }
+
+
+
+
+
+  .section-3-box4 {
+    position: absolute;
+    width: 539.28px;
+    height: 364px;
+    top: 662px;
+    left: 598px;
+
+    border: 1px solid black;
+  }
+
+
+
+
   /** Section 4 **/
   .section-4 {
     position: absolute;
@@ -409,6 +734,11 @@
 
     border: 1px dashed lightblue;
   }
+
+
+
+
+
 
   /** Section 5 **/
   .section-5 {
