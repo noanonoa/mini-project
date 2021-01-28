@@ -16,17 +16,8 @@
 
     border: 1px solid green;
   }
-/*
-section 1:
-  top
-    logo
-      rectangle 33
-      rectangle 32
-    nav
-    btn/request demo
-  headline
 
-*/
+  /** Section 1 **/
   .section-1 {
     position: absolute;
     width: 1248px;
@@ -34,7 +25,7 @@ section 1:
     left: 240px;
     top: 47px;
 
-    border: 1px dashed lightblue;
+    /* border: 1px dashed lightblue; */
   }
 
   .top {
@@ -159,8 +150,8 @@ section 1:
 
   .rectangle-26 {
     position: absolute;
-    width: 210px;
-    height: 60px;
+    width: 100%;
+    height: 100%;
     left: 0;
     top: 0;
     background: #FFFFFF;
@@ -203,7 +194,6 @@ section 1:
     height: 14px;
     top: 5px;
     right: 0;
-    /* overflow: hidden; */
     
     /* border: 1px dotted black; */
   }
@@ -227,7 +217,7 @@ section 1:
     left: 0;
     top: 190px;
     
-    border: 1px dotted black;
+    /* border: 1px dotted black; */
   }
   
   .headline h1 {
@@ -244,7 +234,7 @@ section 1:
     align-items: center;
     color: #212353;
 
-    border: 1px dotted blue;
+    /* border: 1px dotted blue; */
   }
 
   .headline article {
@@ -260,7 +250,7 @@ section 1:
     line-height: 160%;
     color: #4B5D68;
 
-    border: 1px dotted dodgerblue;
+    /* border: 1px dotted dodgerblue; */
   }
 
   .btn-learn-more {
@@ -270,19 +260,19 @@ section 1:
     top: 404px;
     left: 0;
 
-    border: 1px dotted violet;
+    /* border: 1px dotted violet; */
   }
 
   .btn-learn-more .rectangle-26 {
     position: absolute;
-    width: 170px;
-    height: 60px;        
+    width: 100%;
+    height: 100%;        
     left: 0;
     top: 0;
     background: #9C69E2;
     border-radius: 50px;
 
-    border: 1px solid black;
+    /* border: 1px solid black; */
   }
 
   .btn-learn-more p {
@@ -303,5 +293,133 @@ section 1:
 
     /* border: 1px solid red; */
   }
+
+  .img-1-container {
+    position: absolute;
+    width: 885px;
+    height: 468px;
+    left: 363px;
+    top: 286px;
+    
+    /* border: 1px solid black; */
+  }  
+
+  .img-1-container img {
+    width: 100%;
+    height: auto;
+  }
+
+  /** Section 2 **/
+  .section-2 {
+    position: absolute;
+    width: 1117px;
+    height: 560px;
+    left: 240px;
+    top: 903.18px;
+
+    /* border: 1px dashed lightblue; */
+  }
+
+  .rectangle-34 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgba(240, 99, 184, 0.15);
+    border-radius: 50px;
+
+    /* border: 1px solid black; */
+  }
+
+  .section-2-text-container {
+    position: absolute;
+    width: 475px;
+    height: 310px;
+    top: 125px;
+    left: 550px;
+
+    /* border: 1px solid black; */
+  }
+
+  .section-2-text-container h2 {
+    position: absolute;
+    width: 475px;
+    height: 100px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 130%;
+    display: flex;
+    align-items: center;
+    color: #212353;
+    
+    /* border: 1px solid black; */
+  }
+
+  .section-2-text-container article {
+    position: absolute;
+    width: 474px;
+    height: 170px;
+    top: 140px;
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 160%;
+    color: #4B5D68;
+
+    /* border: 1px solid black; */
+  }
+    
+  .img2-container {
+    position: absolute;
+    width: 477px;
+    height: 504px;
+    left: 11px;
+    top: 31.82px;
+    
+    /* border: 1px solid black; */
+  }
+
+  .img2-container img {
+    width: 100%;
+    height: auto;
+  }
+  
+  /** Section 3 **/
+  .section-3 {
+    position: absolute;
+    width: 1137.28px;
+    height: 1026px;
+    left: 220px;
+    top: 1613px;
+
+    border: 1px dashed lightblue;
+  }
+
+  /** Section 4 **/
+  .section-4 {
+    position: absolute;
+    width: 1600px;
+    height: 613px;
+    left: 0px;
+    top: 3648px;
+
+    border: 1px dashed lightblue;
+  }
+
+  /** Section 5 **/
+  .section-5 {
+    position: absolute;
+    width: 1118px;
+    height: 709px;
+    left: 242px;
+    top: 2789px;
+
+    border: 1px dashed lightblue;
+  }
+
 
 }
