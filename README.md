@@ -13,6 +13,8 @@ See the project [here](https://noanonoa.github.io/mini-project/).
  - I spent most of my time on checking for details and assuring that I did not miss anything.  If you find something wrong, please point it out to me.
 
  - I didn't know how to know how to draw the ellipses quite perfectly so I exported the images and measured its placements.
+
+ - I ran into some trouble with the Testimonials section.  The overlay is not quite right and I believe it is affecting the drop shadow on the slides as well.  I am confident with more time I would be able to fix this.
  
  ## Closing Thoughts
  I truly appreciate giving me this chance and opportunity to show what I can do.  Thank you again for a fun coding assignment!
